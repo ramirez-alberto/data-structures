@@ -1,3 +1,6 @@
 ﻿/DataStructures/LinkedList/obj
-/DataStructures/LinkedList/bin/Debug/net6.0
-/DataStructures/.vs/DataStructures/v17
+/DataStructures/LinkedList/bin
+/DataStructures/.vs
+.vscode
+/DataStructures/BalancedBST/obj
+/DataStructures/BalancedBST/bin
